@@ -38,7 +38,7 @@ PHP libraries and their Symfony bundles at [inspirum][link-inspirum].
 
 [ico-gravitton]:            https://img.shields.io/github/stars/gravitton?style=flat-square&label=gravitton&color=e8883a
 [ico-gravitton-blog]:       https://img.shields.io/badge/gravitton-blog-e8883a?style=flat-square
-[ico-inspirum]:             https://img.shields.io/github/stars/inspirum?style=flat-square&label=inspirum&color=777bb4
+[ico-inspirum]:             https://img.shields.io/github/stars/inspirum?style=flat-square&label=inspirum&color=1ba68b
 
 [link-gravitton]:           https://github.com/gravitton
 [link-inspirum]:            https://github.com/inspirum
