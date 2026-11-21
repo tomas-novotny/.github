@@ -6,6 +6,8 @@
 [![Gravitton blog][ico-gravitton-blog]][link-gravitton-blog]
 [![inspirum][ico-inspirum]][link-inspirum]
 
+Libraries I create, or help maintain through pull requests
+
 <hr>
 
 </div>
@@ -35,6 +37,13 @@ PHP libraries and their Symfony bundles at [inspirum][link-inspirum].
 
 - [balikobot](https://github.com/inspirum/balikobot-php): a client for the Balikobot shipping API.
 - [xml](https://github.com/inspirum/xml-php): a simple XML writer and a memory-efficient XML reader with an xml-to-array cast.
+
+## Biano
+
+PHP libraries used at [Biano](https://github.com/BianoCZ).
+
+- [bunny](https://github.com/jakubkulhan/bunny): a pure-PHP AMQP (RabbitMQ) client, sync and async on ReactPHP.
+- [elasticsearch-dsl](https://github.com/BianoCZ/elasticsearch-dsl-php): a fork of ElasticsearchDSL with Symfony support for different Elasticsearch versions.
 
 [ico-gravitton]:            https://img.shields.io/github/stars/gravitton?style=flat-square&label=gravitton&color=e8883a
 [ico-gravitton-blog]:       https://img.shields.io/badge/gravitton-blog-e8883a?style=flat-square
