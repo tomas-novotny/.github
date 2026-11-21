@@ -33,7 +33,7 @@ shows the code and the numbers behind it.
 
 ## Inspirum
 
-PHP libraries and their Symfony bundles at [inspirum][link-inspirum].
+PHP libraries and their Symfony bundles at [Inspirum][link-inspirum].
 
 - [balikobot](https://github.com/inspirum/balikobot-php): a client for the Balikobot shipping API.
 - [xml](https://github.com/inspirum/xml-php): a simple XML writer and a memory-efficient XML reader with an xml-to-array cast.
